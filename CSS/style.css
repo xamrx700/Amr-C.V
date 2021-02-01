@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.5rem;
+}
+
+h1 {
+  font-size: 3rem;
+  margin: auto 0 auto 0;
+  font-family: Lobster, cursive, sans-serif;
+  color: #66BFBF
+}
+h2{
+  color: #66BFBF;
+  font-size: 1.5rem
+}
+
+.top-container {
+  padding-top: 120px;
+  background-color: #E4F9F5;
+}
+
+.middle-container {
+  background-color: #E4F9F5;
+}
+
+.bottom-container {
+  background-color: #E4F9F5;
+}
+
+.top-cloud {
+  position: relative;
+  left: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 250px;
+}

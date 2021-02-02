@@ -78,7 +78,8 @@ a:hover {
  top: 70px;
 }
 .code-text{
-  padding: 10px 10px;
+  border-left-width: 30px;
+      margin-left: 150px;
 }
 
 .contact{

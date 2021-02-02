@@ -72,10 +72,15 @@ a:hover {
 .skill-img {
   width: 25%;
   float: left;
-  margin: auto 30px
-  top: 70px;
-  position: relative;
+  margin-right: 30px;
+  margin-bottom: 10px;
+ position: relative;
+ top: 70px;
 }
+.code-text{
+  padding: 10px 10px;
+}
+
 .contact{
   width: 40%;
   margin: 40px auto 60px;

@@ -11,10 +11,9 @@ h1 {
   font-family: Lobster, cursive, sans-serif;
   color: #66BFBF
 }
-
 h2 {
   color: #66BFBF;
-  font-size: 3rem;
+  font-size: 1.5rem;
 }
 
 h3 {
@@ -68,14 +67,16 @@ a:hover {
   text-align: left;
   line-height: 2;
 }
-
+.margin{
+  margin-top: 70px;
+}
 .skill-img {
   width: 25%;
   float: left;
   margin-right: 30px;
-  margin-bottom: 10px;
- position: relative;
- top: 70px;
+}
+.code-text{
+  border-left-width: 30px;
 }
 
 .contact{
